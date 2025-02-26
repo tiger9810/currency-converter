@@ -32656,12 +32656,12 @@ $S:0}
 A.a5b.prototype={
 $0(){var s=this,r=s.a
 r.f=B.c.Y(s.b,2)+" JPY"
-r.r=B.c.Y(s.c,2)+" USD"
-r.w=B.c.Y(s.d,2)+" USD"
-r.x=B.c.Y(s.e,2)+" USD"
-r.y=B.c.Y(s.f,2)+" USD"
-r.z=B.c.Y(s.r,2)+" USD"
-r.Q=B.c.Y(s.w,2)+" USD"
+r.r=B.c.Y(s.c,1)
+r.w=B.c.Y(s.d,1)
+r.x=B.c.Y(s.e,1)
+r.y=B.c.Y(s.f,1)
+r.z=B.c.Y(s.r,1)
+r.Q=B.c.Y(s.w,1)
 B.c.Y(s.x,2)},
 $S:0}
 A.a5c.prototype={
